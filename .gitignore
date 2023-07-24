@@ -1,8 +1,10 @@
 .idea/*
-config/*
+
 node_modules/*
 package-lock.json
 log/*
 .DS_Store
 
 config/database.js
+config/secret.js
+config/imageS3.js
